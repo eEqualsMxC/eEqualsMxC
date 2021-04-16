@@ -73,8 +73,37 @@ WOULD YOU LIKE TO KNOW MORE?
 
 </div>
 <br>
+<div>
 
-[![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![SQLite Badge](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft-Excel&logoColor=217346)](#) [![microsoftaccess Badge](https://img.shields.io/badge/-Microsoft_Access-A4373A?style=for-the-badge&labelColor=black&logo=microsoft-access&logoColor=A4373A)](#) [![R Badge](https://img.shields.io/badge/-_R_-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&labelColor=black&logo=JAVA&logoColor=007396)](#) [![QGIS Badge](https://img.shields.io/badge/-Qgis-589632?style=for-the-badge&labelColor=black&logo=qgis&logoColor=589632)](#) [![linux Badge](https://img.shields.io/badge/-linux-Fcc624?style=for-the-badge&labelColor=black&logo=linux&logoColor=Fcc624)](#) [![windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=Windows&logoColor=0078D6)](#)
+## Programing Languages:
+
+[![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![SQLite Badge](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#)  [![R Badge](https://img.shields.io/badge/-_R_-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&labelColor=black&logo=JAVA&logoColor=007396)](#)
+
+</div>
+
+<div>
+
+## Microsoft Products
+
+[![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft-Excel&logoColor=217346)](#) [![microsoftaccess Badge](https://img.shields.io/badge/-Microsoft_Access-A4373A?style=for-the-badge&labelColor=black&logo=microsoft-access&logoColor=A4373A)](#)
+
+</div>
+
+<div>
+   
+## Operating Systems
+ 
+ [![windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=Windows&logoColor=0078D6)](#)[![linux Badge](https://img.shields.io/badge/-linux-Fcc624?style=for-the-badge&labelColor=black&logo=linux&logoColor=Fcc624)](#) [![linux Badge](https://img.shields.io/badge/-linux-Fcc624?style=for-the-badge&labelColor=black&logo=linux&logoColor=Fcc624)](#)
+ 
+</div>
+
+
+<div>
+## Open Source Software
+ 
+ [![QGIS Badge](https://img.shields.io/badge/-Qgis-589632?style=for-the-badge&labelColor=black&logo=qgis&logoColor=589632)](#)
+ 
+</div>
 
 </div>
 
