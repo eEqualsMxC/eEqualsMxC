@@ -35,7 +35,7 @@
 
 <details>
 <summary> 
-WOULD YOU LIKE TO KNOW MORE?
+## WOULD YOU LIKE TO KNOW MORE?
 </summary>
    
    <br>
@@ -43,7 +43,7 @@ WOULD YOU LIKE TO KNOW MORE?
    
    <div align="center">
   
-   ## That was deffinetly a reffrence to one of my all time favorits, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!").
+   #That was deffinetly a reffrence to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!").
    
    </div>
    
