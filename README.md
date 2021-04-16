@@ -1,10 +1,9 @@
-<center>
-   <div style="text-align:center;">
+<div align="center">
 
 # __Hello Vistor__   <img style="float:center" src="https://raw.githubusercontent.com/eEqualsMxC/eEqualsMxC/master/wave.gif" width="30px"> 
 
 </div>
-</center>
+
 
 <br>
 <div style="text-align:center;">
