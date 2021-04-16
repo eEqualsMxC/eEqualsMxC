@@ -6,7 +6,7 @@
 
 
 <br>
-<div style="text-align:center;">
+<div align="center">
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=eEqualsMxC.eEqualsMxC)
 
