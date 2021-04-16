@@ -43,7 +43,7 @@ WOULD YOU LIKE TO KNOW MORE?
    
    <div align="center">
   
-   #That was deffinetly a reffrence to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!").
+   # :movie_camera: Yes, I deffinetly just made a reffrence to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!").
    
    </div>
    
