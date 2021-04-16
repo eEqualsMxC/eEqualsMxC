@@ -4,11 +4,9 @@
 
 </div>
 
-
-<br>
 <br>
 
-### My name is [Justin Mustaine](www.linkedin.com/in/justin-mustaine-84b5a71aa "Check out my Linkedin") and I'm a studet at the Ohio State University, IT Intern, Marine veteran, etc. 
+### My name is [Justin Mustaine](www.linkedin.com/in/justin-mustaine-84b5a71aa "Check out my Linkedin") and I'm a studet at the Ohio State University, IT Intern, and a Marine veteran. There is alot more about me, so I went ahead and listed some important / interesting bullet points about me. 
 </div>
 <br>
 <br>
@@ -22,7 +20,7 @@
   
 - 📫 How to reach me: justinmustaine@gmail.com.
   
-- 🪂 Interesting fact: I know how to static line parachute.
+- 🪂 Interesting fact about me: I know how to static line parachute.
 
 <br>
 <br>
@@ -37,8 +35,23 @@
 
 <details>
 <summary> 
-More stuff about me
+WOULD YOU LIKE TO KNOW MORE?
 </summary>
+   
+   <br>
+   <br>
+   
+   <div align="center">
+   
+   # That was deffinetly a reffrence to one of my all time favorits, __Starship Troopers__.
+   
+   </div>
+   
+   <div align="center">
+   <br>
+   <img style="float:center" src="https://media.giphy.com/media/LjV6JxpqzZY1a/giphy.gif" width="50px"> 
+   <br>
+   </div>
 
 <br>
 <br>
