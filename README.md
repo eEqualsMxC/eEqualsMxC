@@ -33,8 +33,10 @@
 <br>
 
 <div align="center">
+   
 [![Linkedin Badge](https://img.shields.io/badge/Justin-84b5a71aa?style=follow&labelColor=0e76a8&logo=linkedin&logoColor=white&color=0e76a8)](www.linkedin.com/in/justin-mustaine-84b5a71aa) [![Mail Badge](https://img.shields.io/badge/-Snail_Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:justinmustaine@gmail.com) [![Mail Badge](https://img.shields.io/badge/-MustaineTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQGm1eT79N3bcrFi1tXvg1w) [![Stack Badge](https://img.shields.io/badge/-StackoverFlow-e74c3c?style=flat&labelColor=f58025&logo=stackoverflow&logoColor=white&color=f58025)](https://stackoverflow.com/users/13297513/import-justin-as-awesome?tab=profile) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-e74c3c?style=flat&labelColor=20beff&logo=kaggle&logoColor=white&color=20beff)](https://www.kaggle.com/justinmustaine) [![Leet Badge](https://img.shields.io/badge/-Leet_Code-84b5a71aa?&textcolor=111111&style=flat&labelColor=FFA116&logo=kaggle&logoColor=black&color=FFA116)](https://leetcode.com/justinmustaine/)
 
+</div>
 <br>
 <br>
 
