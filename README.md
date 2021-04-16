@@ -35,7 +35,7 @@
 
 <details>
 <summary> 
-## WOULD YOU LIKE TO KNOW MORE?
+WOULD YOU LIKE TO KNOW MORE?
 </summary>
    
    <br>
