@@ -49,7 +49,7 @@ WOULD YOU LIKE TO KNOW MORE?
    
    <div align="center">
    <br>
-   <img style="float:center" src="https://media.giphy.com/media/LjV6JxpqzZY1a/giphy.gif" width="50px"> 
+   <img style="float:center" src="https://media.giphy.com/media/LjV6JxpqzZY1a/giphy.gif" width="500px" height="500px"> 
    <br>
    </div>
 
