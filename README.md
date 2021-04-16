@@ -32,7 +32,7 @@
 <br>
 <br>
 
-
+<div align="center">
 [![Linkedin Badge](https://img.shields.io/badge/Justin-84b5a71aa?style=follow&labelColor=0e76a8&logo=linkedin&logoColor=white&color=0e76a8)](www.linkedin.com/in/justin-mustaine-84b5a71aa) [![Mail Badge](https://img.shields.io/badge/-Snail_Mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:justinmustaine@gmail.com) [![Mail Badge](https://img.shields.io/badge/-MustaineTube-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCQGm1eT79N3bcrFi1tXvg1w) [![Stack Badge](https://img.shields.io/badge/-StackoverFlow-e74c3c?style=flat&labelColor=f58025&logo=stackoverflow&logoColor=white&color=f58025)](https://stackoverflow.com/users/13297513/import-justin-as-awesome?tab=profile) [![Kaggle Badge](https://img.shields.io/badge/-Kaggle-e74c3c?style=flat&labelColor=20beff&logo=kaggle&logoColor=white&color=20beff)](https://www.kaggle.com/justinmustaine) [![Leet Badge](https://img.shields.io/badge/-Leet_Code-84b5a71aa?&textcolor=111111&style=flat&labelColor=FFA116&logo=kaggle&logoColor=black&color=FFA116)](https://leetcode.com/justinmustaine/)
 
 <br>
@@ -64,8 +64,9 @@ More stuff about me
 </div>
 <br>
 
-[![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![SQLite Badge](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft-Excel&logoColor=217346)](#) [![microsoftaccess Badge](https://img.shields.io/badge/-Microsoft_Access-A4373A?style=for-the-badge&labelColor=black&logo=microsoft-access&logoColor=A4373A)](#) [![R Badge](https://img.shields.io/badge/-_R_-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&labelColor=black&logo=JAVA&logoColor=007396)](#) [![QGIS Badge](https://img.shields.io/badge/-Qgis-589632?style=for-the-badge&labelColor=black&logo=qgis&logoColor=589632)](#) [![linux Badge](https://img.shields.io/badge/-linux-Fcc624?style=for-the-badge&labelColor=black&logo=linux&logoColor=Fcc624)](#) [![windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=Windows&logoColor=0078D6)](#) 
+[![Python Badge](https://img.shields.io/badge/-python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#) [![SQLite Badge](https://img.shields.io/badge/-SQLITE-003B57?style=for-the-badge&labelColor=black&logo=sqlite&logoColor=003B57)](#) [![Excel Badge](https://img.shields.io/badge/-Microsoft_Excel-217346?style=for-the-badge&labelColor=black&logo=Microsoft-Excel&logoColor=217346)](#) [![microsoftaccess Badge](https://img.shields.io/badge/-Microsoft_Access-A4373A?style=for-the-badge&labelColor=black&logo=microsoft-access&logoColor=A4373A)](#) [![R Badge](https://img.shields.io/badge/-_R_-276DC3?style=for-the-badge&labelColor=black&logo=R&logoColor=276DC3)](#) [![HTML Badge](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&labelColor=black&logo=HTML5&logoColor=E34F26)](#) [![Java Badge](https://img.shields.io/badge/-JAVA-007396?style=for-the-badge&labelColor=black&logo=JAVA&logoColor=007396)](#) [![QGIS Badge](https://img.shields.io/badge/-Qgis-589632?style=for-the-badge&labelColor=black&logo=qgis&logoColor=589632)](#) [![linux Badge](https://img.shields.io/badge/-linux-Fcc624?style=for-the-badge&labelColor=black&logo=linux&logoColor=Fcc624)](#) [![windows Badge](https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&labelColor=black&logo=Windows&logoColor=0078D6)](#)
 
+</div>
 
 <br>
 <br>
