@@ -128,12 +128,15 @@ WOULD YOU LIKE TO KNOW MORE?
 
 </details>
 
-<br>
+
 <details>
 <summary>
+
 PERSONAL PROJECTS UP FOR CONSIDERATION
+
 </summary>
-<br>
+</details>
+
 
 <style>
 div {
