@@ -149,7 +149,9 @@ div {
 <div>
 <details>
    
-<summary>:earth_americas: Raspberry PI Garden  :sunflower: :computer:</summary>
+<summary>:
+earth_americas: Raspberry PI Garden  :sunflower: :computer:
+</summary>
 
 </details>
 </div>
