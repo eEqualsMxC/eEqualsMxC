@@ -135,7 +135,7 @@ WOULD YOU LIKE TO KNOW MORE?
 PERSONAL PROJECTS UP FOR CONSIDERATION
 
 </summary>
-</details>
+
 
 
 <style>
@@ -188,6 +188,10 @@ C++ or Javascript or Sharpen up with R
 <br>
 </details>
 </div>
+   
+</details>
+
+
 </dt>
 <br>
 </details>
