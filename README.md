@@ -148,18 +148,17 @@ div {
 <dt>
 <div>
 <details>
+   
 <summary>:earth_americas: Raspberry PI Garden  :sunflower: :computer:</summary>
 
 </details>
 </div>
-</dt> 
+</dt>
+
 <br>
+
 <dt>
 <div>
-</p>
-
-
-
 <details>
 <summary>
 :key: SHA256 from Scratch :closed_lock_with_key:
