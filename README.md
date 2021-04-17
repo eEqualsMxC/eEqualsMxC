@@ -138,13 +138,6 @@ PERSONAL PROJECTS UP FOR CONSIDERATION
 
 
 
-<style>
-div {
-  padding: 0px 0px 0px 30px;
-}
-</style>
-
-
 <dt>
 <div>
 <details>
@@ -189,7 +182,7 @@ C++ or Javascript or Sharpen up with R
 </summary>
 <br>
 </details>
-</div>
+</div> -->
    
 </details>
 
