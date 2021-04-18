@@ -104,7 +104,6 @@ Ayways ...
  
 </div>
 
-
 <div>
    
 ### Open Source Software
@@ -113,98 +112,20 @@ Ayways ...
  
 </div>
 
-
-
 <br>
-<<<<<<< HEAD
 <br>
 <br>
 
 ### __Github Stats__
+
+<br>
 <br>
 
 [![Justins GitHub stats](https://github-readme-stats.vercel.app/api?username=eEqualsMxC&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/eEqualsMxC/github-readme-stats)
 
-</details>
-=======
 
 [![Justins GitHub stats](https://github-readme-stats.vercel.app/api?username=eEqualsMxC&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/eEqualsMxC/github-readme-stats)
 
 </details>
-
-
-<details>
-<summary>
-
-PERSONAL PROJECTS UP FOR CONSIDERATION
-
-</summary>
-
-
-
-<dt>
-<div>
-<details>
-   
-<summary>:
-earth_americas: Raspberry PI Garden  :sunflower: :computer:
-</summary>
-
-</details>
-</div>
-</dt>
-
-<br>
-
-<dt>
-<div>
-<details>
-<summary>
-:key: SHA256 from Scratch :closed_lock_with_key:
-</summary>
-<br>
-</details>
-</div>
-</dt>
-<br>
-<dt>
-<div>
-<details>
-<summary>
-:globe_with_meridians: GEO-Django  :snake:
-</summary>
-<br>
-</details>
-</div>
-</dt>
-<br>
-<dt>
-<div>
-<details>
-<summary>
-C++ or Javascript or Sharpen up with R
-</summary>
-<br>
-</details>
-</div> -->
-   
-</details>
-
-
-</dt>
-<br>
-</details>
-<br>
-<details>
-<summary>
-SCRIPT :smirk_cat:
-</summary>
-</details>
-<br>
-<br>
->>>>>>> 57b0a7871c208315eec8f7945347a8988733f0cd
-<br>
-<br>
-<h2 align="center">:star:Don't forget to  Star this Repository :star:</h2>
 
  
