@@ -127,14 +127,26 @@ Ayways ...
 <br>
 <br>
 
-### __Github Stats__
+<div>
+   
+   # __Github Stats__
+
+</div>
+
+
+<br>
+<br>
+
+<div align="center">
+   
+   # __Github Stats__
 
 <br>
 <br>
 
 [![Justins GitHub stats](https://github-readme-stats.vercel.app/api?username=eEqualsMxC&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/eEqualsMxC/github-readme-stats)
 
-
+</div>
 
 
 </details>
