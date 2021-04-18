@@ -55,14 +55,13 @@ WOULD YOU LIKE TO KNOW MORE?
    <br>
    <img style="float:center;width:800px; margin:0 auto;" src="https://media.giphy.com/media/LjV6JxpqzZY1a/giphy.gif" width="500px" height="500px"> 
    <br>
-   </div>
-   
-   <br>
-   <p>
+    <p>
 
-   I just made reference to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!") :clapper:.
+   It was a reference to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!") :clapper:.
      
    </p>
+   </div>
+  
 
 <br>
 <br>
