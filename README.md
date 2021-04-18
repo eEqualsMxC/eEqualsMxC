@@ -40,8 +40,17 @@ WOULD YOU LIKE TO KNOW MORE?
    <br>
    
    <div align="center">
-  
-   ## :movie_camera: Did you see what I did there :laughing:? I just made reference to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!") :clapper: .
+   
+   <p>
+   
+   ## :movie_camera: Did you see what I did there :laughing:? 
+   
+   </p>
+   
+   <p>
+
+   ##  I just made reference to one of my all time favorites, [__Starship Troopers__](https://www.imdb.com/title/tt0120201/ "Actually its the greatest movie ever!") :clapper:.
+   </p>
    
    </div>
 
