@@ -127,17 +127,7 @@ Ayways ...
 <br>
 <br>
 
-<div>
-   
-   # __Github Stats__
-
-</div>
-
-
-<br>
-<br>
-
-<div align="center">
+<div style="color:white;width:800px; margin:0 auto;"align="center">
    
    # __Github Stats__
 
