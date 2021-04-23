@@ -8,7 +8,7 @@
 </div>
 <br>
 
-- :telescope: :school: Curently, I'm finishing up with undergrad.
+- :telescope: :school: Curently, I'm an undergrad at the Ohio State University.
    
 - :alarm_clock: Most used line of code```   # Fix This later```
   
