@@ -125,18 +125,6 @@ Ayways ...
 
 <br>
 <br>
-<br>
-
-<div style="color:white;width:800px; margin:0 auto;"align="center">
-   
-   # __Github Stats__
-
-<br>
-<br>
-
-[![Justins GitHub stats](https://github-readme-stats.vercel.app/api?username=eEqualsMxC&hide=contribs,prs,issues&theme=tokyonight)](https://github.com/eEqualsMxC/github-readme-stats)
-
-</div>
 
 
 </details>
